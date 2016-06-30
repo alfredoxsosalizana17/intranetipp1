@@ -1,0 +1,151 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="www.intranetipp.com.pe" resolutions="1x" timestamp="1467319730524">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-p_g_-maestra.css" crc="260726345" ref="index:sin-título-4:bienvenida:inicio"/>
+    <file name="nomq_preview_master_a-p_g_-maestra.css" crc="498235652" ref="index:sin-título-4:bienvenida:inicio"/>
+    <file name="index.css" crc="463328533" ref="index"/>
+    <file name="nomq_index.css" crc="4009847706" ref="index"/>
+    <file name="sin-t_tulo-4.css" crc="4261102505" ref="sin-título-4"/>
+    <file name="nomq_sin-t_tulo-4.css" crc="3834320380" ref="sin-título-4"/>
+    <file name="bienvenida.css" crc="148385877" ref="bienvenida"/>
+    <file name="nomq_bienvenida.css" crc="4226597099" ref="bienvenida"/>
+    <file name="inicio.css" crc="215213510" ref="inicio"/>
+    <file name="nomq_inicio.css" crc="223557808" ref="inicio"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:inicio:sin-título-4:bienvenida"/>
+    <file name="museutils.js" crc="3790713428" ref="index:inicio:sin-título-4:bienvenida"/>
+    <file name="whatinput.js" crc="84559013" ref="index:inicio:sin-título-4:bienvenida"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index:inicio:sin-título-4:bienvenida"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:inicio:sin-título-4:bienvenida"/>
+    <file name="pie.js" crc="3827607177" ref="index:inicio"/>
+    <file name="webpro.js" crc="329496574" ref="index:inicio:sin-título-4"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:inicio"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:inicio"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:inicio"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:inicio:sin-título-4:bienvenida"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="inicio:sin-título-4"/>
+  </folder>
+  <folder name="images">
+    <file name="logo ipp web-intranet.png" crc="452663527" ref="index"/>
+    <file name="logo ipp web-intranet copia.png" crc="476684691" ref="index"/>
+    <file name="u492-4.png" crc="199978616" ref="index"/>
+    <file name="u570-4.png" crc="223517443" ref="index"/>
+    <file name="u2500-4.png" crc="363715055" ref="index"/>
+    <file name="u2488-4.png" crc="3775421566" ref="index"/>
+    <file name="main-header-banner-slider-0484x171.jpg" crc="3811281638" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:inicio:sin-título-4:bienvenida"/>
+    <file name="main-header-banner-slider-99493x188.jpg" crc="3902085228" seo="true" ref="index"/>
+    <file name="13227019_10153701745587945_8777743695805203667_n.jpg" crc="3937509579" seo="true" ref="index:inicio"/>
+    <file name="loading.gif" crc="3815509949" ref="index:inicio"/>
+    <file name="u492-42.png" crc="4232457768" ref="index"/>
+    <file name="u570-42.png" crc="3982489425" ref="index"/>
+    <file name="u2500-42.png" crc="3858876566" ref="index"/>
+    <file name="u2488-42.png" crc="3779452729" ref="index"/>
+    <file name="u492-43.png" crc="513552436" ref="index"/>
+    <file name="u570-43.png" crc="4208852747" ref="index"/>
+    <file name="u2500-43.png" crc="4075368316" ref="index"/>
+    <file name="u2488-43.png" crc="4248557585" ref="index"/>
+    <file name="logo ipp web-u2423-fr.png" crc="217519141" ref="index"/>
+    <file name="logo ipp web-u2423-r-fr.png" crc="3998055224" ref="index"/>
+    <file name="u492-44.png" crc="63834473" ref="index"/>
+    <file name="u570-44.png" crc="4037356862" ref="index"/>
+    <file name="u2500-44.png" crc="127049154" ref="index"/>
+    <file name="u2488-44.png" crc="4271256330" ref="index"/>
+    <file name="u492-45.png" crc="4149995541" ref="index"/>
+    <file name="u570-45.png" crc="3957749477" ref="index"/>
+    <file name="u2500-45.png" crc="293782337" ref="index"/>
+    <file name="u2488-45.png" crc="3990421698" ref="index"/>
+    <file name="fondo-ipp.jpg" crc="437863116" ref="inicio"/>
+    <file name="u1165-4.png" crc="429524563" ref="inicio"/>
+    <file name="u2450-4.png" crc="3831524993" ref="inicio"/>
+    <file name="u1283-4.png" crc="34510897" ref="inicio"/>
+    <file name="u1235-4.png" crc="420846767" ref="inicio"/>
+    <file name="u2750-4.png" crc="4244658934" ref="inicio"/>
+    <file name="u2745-4.png" crc="420846767" ref="inicio"/>
+    <file name="botón menú-objeto inteligente vectorial.png" crc="447503558" ref="inicio:sin-título-4"/>
+    <file name="botón menú-objeto inteligente vectorial copia.png" crc="205401517" ref="inicio:sin-título-4"/>
+    <file name="u2054-10.png" crc="417734878" ref="inicio"/>
+    <file name="u2545-4.png" crc="4027363894" ref="inicio"/>
+    <file name="u1165-42.png" crc="4144189994" ref="inicio"/>
+    <file name="u2450-42.png" crc="4187463224" ref="inicio"/>
+    <file name="u1283-42.png" crc="103880377" ref="inicio"/>
+    <file name="u1235-42.png" crc="183558724" ref="inicio"/>
+    <file name="u2750-42.png" crc="123280029" ref="inicio"/>
+    <file name="u2745-42.png" crc="183558724" ref="inicio"/>
+    <file name="u2054-102.png" crc="44006715" ref="inicio"/>
+    <file name="u2545-42.png" crc="3924069886" ref="inicio"/>
+    <file name="u1165-43.png" crc="265205971" ref="inicio"/>
+    <file name="u2450-43.png" crc="3886494010" ref="inicio"/>
+    <file name="u1283-43.png" crc="95791934" ref="inicio"/>
+    <file name="u1235-43.png" crc="210137040" ref="inicio"/>
+    <file name="u2750-43.png" crc="4024567355" ref="inicio"/>
+    <file name="u2745-43.png" crc="210137040" ref="inicio"/>
+    <file name="botón menú-u1289-fr.png" crc="433369092" ref="inicio:sin-título-4"/>
+    <file name="botón menú-u1289-r-fr.png" crc="427875116" ref="inicio:sin-título-4"/>
+    <file name="u2054-103.png" crc="4199241673" ref="inicio"/>
+    <file name="u2545-43.png" crc="4260771842" ref="inicio"/>
+    <file name="u1165-44.png" crc="4255655947" ref="inicio"/>
+    <file name="u2450-44.png" crc="232085123" ref="inicio"/>
+    <file name="u1283-44.png" crc="4208910762" ref="inicio"/>
+    <file name="u1235-44.png" crc="3958304975" ref="inicio"/>
+    <file name="u2750-44.png" crc="477510186" ref="inicio"/>
+    <file name="u2745-44.png" crc="3958304975" ref="inicio"/>
+    <file name="botón menú-u1289-fr2.png" crc="3919584544" ref="inicio:sin-título-4"/>
+    <file name="botón menú-u1289-r-fr2.png" crc="526833451" ref="inicio:sin-título-4"/>
+    <file name="u2054-104.png" crc="418978409" ref="inicio"/>
+    <file name="u2545-44.png" crc="151286802" ref="inicio"/>
+    <file name="u2450-45.png" crc="105834232" ref="inicio"/>
+    <file name="u1235-45.png" crc="258250148" ref="inicio"/>
+    <file name="u2745-45.png" crc="258250148" ref="inicio"/>
+    <file name="u1165-45.png" crc="355291451" ref="inicio"/>
+    <file name="u1283-45.png" crc="397757257" ref="inicio"/>
+    <file name="u2750-45.png" crc="473408419" ref="inicio"/>
+    <file name="u2545-45.png" crc="4218360758" ref="inicio"/>
+    <file name="u2054-105.png" crc="3793428312" ref="inicio"/>
+    <file name="notas.png" crc="57586118" seo="true" ref="sin-título-4"/>
+    <file name="u2394-4.png" crc="382356944" ref="sin-título-4"/>
+    <file name="u2271-10.png" crc="417734878" ref="sin-título-4"/>
+    <file name="u2398-4.png" crc="4054405699" ref="sin-título-4"/>
+    <file name="u2346-4.png" crc="207025970" ref="sin-título-4"/>
+    <file name="u2328-8.png" crc="486539117" ref="sin-título-4"/>
+    <file name="u2394-42.png" crc="8923536" ref="sin-título-4"/>
+    <file name="u2271-102.png" crc="44006715" ref="sin-título-4"/>
+    <file name="u2398-42.png" crc="4211088374" ref="sin-título-4"/>
+    <file name="u2346-42.png" crc="309485496" ref="sin-título-4"/>
+    <file name="u2328-82.png" crc="3846854788" ref="sin-título-4"/>
+    <file name="u2394-43.png" crc="384645004" ref="sin-título-4"/>
+    <file name="u2271-103.png" crc="4199241673" ref="sin-título-4"/>
+    <file name="u2398-43.png" crc="370447240" ref="sin-título-4"/>
+    <file name="u2346-43.png" crc="4124393624" ref="sin-título-4"/>
+    <file name="u2328-83.png" crc="3932013600" ref="sin-título-4"/>
+    <file name="notas200x681.png" crc="57586118" seo="true" ref="sin-título-4"/>
+    <file name="u2394-44.png" crc="528380658" ref="sin-título-4"/>
+    <file name="u2271-104.png" crc="418978409" ref="sin-título-4"/>
+    <file name="u2398-44.png" crc="4081898963" ref="sin-título-4"/>
+    <file name="u2346-44.png" crc="4205344772" ref="sin-título-4"/>
+    <file name="u2328-84.png" crc="391839861" ref="sin-título-4"/>
+    <file name="u2394-45.png" crc="28438628" ref="sin-título-4"/>
+    <file name="u2346-45.png" crc="89386696" ref="sin-título-4"/>
+    <file name="u2328-85.png" crc="4222466900" ref="sin-título-4"/>
+    <file name="u2398-45.png" crc="3997567841" ref="sin-título-4"/>
+    <file name="u2271-105.png" crc="3793428312" ref="sin-título-4"/>
+    <file name="u2725-4.png" crc="384251706" ref="bienvenida"/>
+    <file name="1ra primera-logo ipp web.png" crc="380293632" ref="bienvenida"/>
+    <file name="1ra primera-logo ipp web copia.png" crc="3999581145" ref="bienvenida"/>
+    <file name="u2725-42.png" crc="403425257" ref="bienvenida"/>
+    <file name="u2725-43.png" crc="3769561623" ref="bienvenida"/>
+    <file name="1ra primera-u2707-fr.png" crc="279909658" ref="bienvenida"/>
+    <file name="1ra primera-u2707-r-fr.png" crc="3915679318" ref="bienvenida"/>
+    <file name="u2725-44.png" crc="284775532" ref="bienvenida"/>
+    <file name="1ra primera-u2707-fr2.png" crc="4090912146" ref="bienvenida"/>
+    <file name="1ra primera-u2707-r-fr2.png" crc="359935084" ref="bienvenida"/>
+    <file name="u2735-4.png" crc="4146525307" ref="bienvenida"/>
+    <file name="1ra primera-u2707-fr3.png" crc="507805886" ref="bienvenida"/>
+    <file name="1ra primera-u2707-r-fr3.png" crc="3842841187" ref="bienvenida"/>
+  </folder>
+  <file name="index.html" crc="11815322" seo="true" mt="1467317859766" redirect="true"/>
+  <file name="inicio.html" crc="4143519340" seo="true" mt="1467317647459" redirect="true"/>
+  <file name="sin-título-4.html" crc="349038221" seo="true" mt="1467317647459" redirect="true"/>
+  <file name="bienvenida.html" crc="508800584" seo="true" mt="1467319567324" redirect="true"/>
+</manifest>

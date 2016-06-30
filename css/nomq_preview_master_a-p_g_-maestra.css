@@ -1,0 +1,16 @@
+	#u2422_align_to_page
+	{
+		max-width: 960px;
+	}
+
+	#u2423
+	{
+		background-image: url("../images/logo%20ipp%20web-intranet.png");
+	}
+
+	#u2423:hover
+	{
+		background-image: url("../images/logo%20ipp%20web-intranet%20copia.png");
+	}
+
+

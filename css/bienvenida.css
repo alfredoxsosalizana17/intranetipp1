@@ -1,0 +1,571 @@
+.version.bienvenida /* version checker */
+{
+	color: #000008;
+	background-color: #D83055;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#page
+{
+	margin-left: auto;
+	background-image: none;
+	z-index: 1;
+	background-color: transparent;
+	width: 100%;
+	border-color: #000000;
+	margin-right: auto;
+	border-width: 0px;
+}
+
+#u2422,#u2422-bw
+{
+	z-index: 2;
+}
+
+#u2423
+{
+	z-index: 3;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2423:hover
+{
+	min-height: 0px;
+	margin-left: 0%;
+	margin-right: -10000px;
+}
+
+#u2704
+{
+	z-index: 4;
+	background-color: #1381D9;
+}
+
+#u2704_align_to_page
+{
+	margin-left: auto;
+	position: relative;
+	margin-right: auto;
+}
+
+#u2707
+{
+	background-repeat: no-repeat;
+	background-color: transparent;
+	background-position: left top;
+	z-index: 5;
+	position: relative;
+	background-size: contain;
+}
+
+#u2707:hover
+{
+	min-height: 0px;
+	background-repeat: no-repeat;
+	background-position: left top;
+	margin-right: 0px;
+	margin-left: 0%;
+	background-color: transparent;
+	margin-bottom: 0px;
+	background-size: contain;
+}
+
+#u2704-bw
+{
+	z-index: 4;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+}
+
+@media (min-width: 771px)
+{
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 499.9000000000001px;
+		padding-bottom: 0px;
+		max-width: 960px;
+	}
+
+	#page_position_content
+	{
+		margin-top: -2px;
+		width: 100%;
+	}
+
+	#u2422_align_to_page
+	{
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+	}
+
+	#u2423
+	{
+		height: 124px;
+		margin-bottom: -34px;
+		margin-top: -26px;
+		width: 26.46%;
+		left: 36.78%;
+	}
+
+	#u2423:hover
+	{
+		margin-bottom: -34px;
+		margin-top: -26px;
+		height: 124px;
+		width: 26.46%;
+	}
+
+	#u2422,#u2422-bw
+	{
+		min-height: 64px;
+	}
+
+	#u2704_align_to_page
+	{
+		max-width: 960px;
+		padding-top: 80px;
+		padding-bottom: 184px;
+	}
+
+	#u2725-4
+	{
+		z-index: 6;
+		display: block;
+		vertical-align: top;
+		position: relative;
+		width: 70.11%;
+		left: 15%;
+	}
+
+	#u2707
+	{
+		height: 333px;
+		background-image: url("../images/1ra%20primera-logo%20ipp%20web.png");
+		margin-top: 68px;
+		width: 49.9%;
+		left: 25.11%;
+	}
+
+	#u2707:hover
+	{
+		background-image: url("../images/1ra%20primera-logo%20ipp%20web%20copia.png");
+		margin-top: 68px;
+		height: 333px;
+		width: 49.9%;
+	}
+
+	#u2704,#u2704-bw
+	{
+		min-height: 729px;
+	}
+}
+
+@media (min-width: 621px) and (max-width: 770px)
+{
+	#muse_css_mq
+	{
+		background-color: #000302;
+	}
+
+	#bp_770.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 499.9000000000001px;
+		padding-bottom: 0px;
+		max-width: 770px;
+	}
+
+	#page_position_content
+	{
+		margin-top: -2px;
+		width: 100%;
+	}
+
+	#u2422_align_to_page
+	{
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+	}
+
+	#u2423
+	{
+		height: 124px;
+		margin-bottom: -34px;
+		margin-top: -26px;
+		width: 26.5%;
+		left: 36.76%;
+	}
+
+	#u2423:hover
+	{
+		margin-bottom: -34px;
+		margin-top: -26px;
+		height: 124px;
+		width: 26.5%;
+	}
+
+	#u2422,#u2422-bw
+	{
+		min-height: 64px;
+	}
+
+	#u2704_align_to_page
+	{
+		max-width: 770px;
+		padding-top: 80px;
+		padding-bottom: 184px;
+	}
+
+	#u2725-4
+	{
+		z-index: 6;
+		display: block;
+		vertical-align: top;
+		position: relative;
+		width: 70%;
+		left: 14.94%;
+	}
+
+	#u2707
+	{
+		height: 333px;
+		background-image: url("../images/1ra%20primera-logo%20ipp%20web.png");
+		margin-top: 66px;
+		width: 49.88%;
+		left: 25.07%;
+	}
+
+	#u2707:hover
+	{
+		background-image: url("../images/1ra%20primera-logo%20ipp%20web%20copia.png");
+		margin-top: 66px;
+		height: 333px;
+		width: 49.88%;
+	}
+
+	#u2704,#u2704-bw
+	{
+		min-height: 753px;
+	}
+}
+
+@media (min-width: 386px) and (max-width: 620px)
+{
+	#muse_css_mq
+	{
+		background-color: #00026c;
+	}
+
+	#bp_620.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 499.9000000000001px;
+		padding-bottom: 0px;
+		max-width: 620px;
+	}
+
+	#page_position_content
+	{
+		margin-top: -2px;
+		width: 100%;
+	}
+
+	#u2422_align_to_page
+	{
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+	}
+
+	#u2423
+	{
+		height: 118px;
+		margin-bottom: -27px;
+		margin-top: -27px;
+		width: 37.42%;
+		left: 31.3%;
+	}
+
+	#u2423:hover
+	{
+		margin-bottom: -27px;
+		margin-top: -27px;
+		height: 118px;
+		width: 37.42%;
+	}
+
+	#u2422,#u2422-bw
+	{
+		min-height: 64px;
+	}
+
+	#u2704_align_to_page
+	{
+		max-width: 620px;
+		padding-top: 80px;
+		padding-bottom: 184px;
+	}
+
+	#u2725-4
+	{
+		z-index: 6;
+		display: block;
+		vertical-align: top;
+		margin-top: 1px;
+		position: relative;
+		width: 70%;
+		left: 15%;
+	}
+
+	#u2707
+	{
+		height: 333px;
+		background-image: url("../images/1ra%20primera-u2707-fr.png");
+		margin-top: 66px;
+		width: 49.84%;
+		left: 25%;
+	}
+
+	#u2707:hover
+	{
+		background-image: url("../images/1ra%20primera-u2707-r-fr.png");
+		margin-top: 66px;
+		height: 333px;
+		width: 49.84%;
+	}
+
+	#u2704,#u2704-bw
+	{
+		min-height: 753px;
+	}
+}
+
+@media (min-width: 321px) and (max-width: 385px)
+{
+	#muse_css_mq
+	{
+		background-color: #000181;
+	}
+
+	#bp_385.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 499.9000000000001px;
+		padding-bottom: 0px;
+		max-width: 385px;
+	}
+
+	#page_position_content
+	{
+		margin-top: -2px;
+		width: 100%;
+	}
+
+	#u2422_align_to_page
+	{
+		margin-left: auto;
+		margin-right: auto;
+		position: relative;
+	}
+
+	#u2423
+	{
+		height: 103px;
+		margin-bottom: -23px;
+		margin-top: -16px;
+		width: 45.46%;
+		left: 27.28%;
+	}
+
+	#u2423:hover
+	{
+		margin-bottom: -23px;
+		margin-top: -16px;
+		height: 103px;
+		width: 45.46%;
+	}
+
+	#u2422,#u2422-bw
+	{
+		min-height: 64px;
+	}
+
+	#u2704_align_to_page
+	{
+		max-width: 385px;
+		padding-top: 81px;
+		padding-bottom: 184px;
+	}
+
+	#u2725-4
+	{
+		z-index: 6;
+		display: block;
+		vertical-align: top;
+		position: relative;
+		width: 69.88%;
+		left: 15.07%;
+	}
+
+	#u2707
+	{
+		height: 333px;
+		background-image: url("../images/1ra%20primera-u2707-fr2.png");
+		margin-top: 66px;
+		width: 49.88%;
+		left: 24.94%;
+	}
+
+	#u2707:hover
+	{
+		background-image: url("../images/1ra%20primera-u2707-r-fr2.png");
+		margin-top: 66px;
+		height: 333px;
+		width: 49.88%;
+	}
+
+	#u2704,#u2704-bw
+	{
+		min-height: 796px;
+	}
+}
+
+@media (max-width: 320px)
+{
+	#muse_css_mq
+	{
+		background-color: #000140;
+	}
+
+	#bp_320.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		min-height: 500px;
+		max-width: 320px;
+	}
+
+	#u2422
+	{
+		height: 62px;
+	}
+
+	#u2422-bw
+	{
+		margin-top: -1px;
+		height: 62px;
+	}
+
+	#u2423
+	{
+		height: 124px;
+		margin-top: -32px;
+		width: 74.38%;
+		left: 25.63%;
+	}
+
+	#u2423:hover
+	{
+		margin-bottom: 0px;
+		margin-top: -32px;
+		height: 124px;
+		width: 74.38%;
+	}
+
+	#u2704
+	{
+		min-height: 713px;
+	}
+
+	#u2704_align_to_page
+	{
+		max-width: 320px;
+		padding-top: 34px;
+		padding-bottom: 384px;
+	}
+
+	#u2735-4
+	{
+		z-index: 6;
+		display: block;
+		vertical-align: top;
+		position: relative;
+		width: 96.88%;
+		left: 3.13%;
+	}
+
+	#u2707
+	{
+		height: 215px;
+		background-image: url("../images/1ra%20primera-u2707-fr3.png");
+		margin-top: 40px;
+		width: 73.75%;
+		left: 13.13%;
+	}
+
+	#u2707:hover
+	{
+		background-image: url("../images/1ra%20primera-u2707-r-fr3.png");
+		margin-top: 40px;
+		height: 215px;
+		width: 73.75%;
+	}
+
+	#u2704-bw
+	{
+		min-height: 713px;
+		margin-top: 61px;
+	}
+
+	body
+	{
+		min-width: 320px;
+	}
+
+}
+
